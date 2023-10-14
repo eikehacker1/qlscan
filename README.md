@@ -44,3 +44,4 @@ cat urls.txt | qlscan
 ````bash
 qlscan --url https://exemplo.com/v1 
 ````
+![exemplo](https://raw.githubusercontent.com/eikehacker1/qlscan/main/Captura%20de%20tela%202023-10-14%20090726.png)
