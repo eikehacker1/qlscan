@@ -1,6 +1,7 @@
 # qlscan
 one scan  of graphql
-````json
+````JSON
+'''
 {
   __schema {
     types {
@@ -13,4 +14,5 @@ one scan  of graphql
     }
   }
 }
+'''
 ````
