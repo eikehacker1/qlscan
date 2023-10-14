@@ -19,3 +19,11 @@ This script made in "GO" checks some initial series of graqphql APIs. It only pe
 }
 '''
 ````
+## USE: 
+````bash
+cat urls.txt | qlscan 
+````
+## OR:
+````bash
+qlscan --url https://exemplo.com/v1 
+````
