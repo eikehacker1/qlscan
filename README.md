@@ -33,7 +33,7 @@ Example endpoints that may be consulted:
 These are just examples, you are the one who recognizes the endpoints
 # INSTALL:
 ````zsh
-go install -v github.com/eikehacker1/qlscan@latest
+go install -v github.com/eikehacker1/qlscan@50ab7c54e06539e4bf713c409f00019841af9214
 ````
 
 ## USE: 
