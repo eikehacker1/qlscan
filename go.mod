@@ -1,6 +1,6 @@
 module github.com/eikehacker1/qlscan
 
-go 1.21.3
+
 
 require (
 	github.com/fatih/color v1.15.0 // indirect
